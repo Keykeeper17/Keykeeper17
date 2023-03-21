@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Below is a test to customize my readme file.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Keykeeper17=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?keykeeper17=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
