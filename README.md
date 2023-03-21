@@ -40,6 +40,8 @@ Below displays my language statistics from my public repositories:
 <br><hr><br>
 
 
+<h1 align="center">Insert Banner here</h1>
+
 <h1 align="center">Hi 👋, I'm Key</h1>
 <h3 align="center">A passionate Full Stack Developer from United States of America</h3>
 
