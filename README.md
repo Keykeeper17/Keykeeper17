@@ -45,6 +45,7 @@ Below displays my language statistics from my public repositories:
 <h1 align="center">Hi 👋, I'm Key</h1>
 <h3 align="center">A passionate Developer, currently learning Full Stack Developer from United States of America</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keykeeper17&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
 - 🔭 I’m currently working on **React**
 
