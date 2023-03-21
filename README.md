@@ -45,7 +45,7 @@ Below displays my language statistics from my public repositories:
 <img  aligh="center" src="ezgif-3-5a2ece833fc4-1.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Key</h1>
-<h3 align="center">A passionate Developer, currently learning Full Stack Development from United States of America</h3>
+<h3 align="center">A passionate Developer, currently learning Full Stack Development from the US</h3>
 
 <br>
 
