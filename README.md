@@ -1,3 +1,4 @@
+<!--
 # Hi there 👋 
 
 I am a developer, game developer
@@ -20,13 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 :grinning: 
 
 Below is a test to customize my readme file.
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keykeeper17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,6 +39,7 @@ Below displays my language statistics from my public repositories:
 
 
 <br><hr><br>
+-->
 
 
 <img  aligh="center" src="ezgif-3-5a2ece833fc4-1.gif" alt="">
