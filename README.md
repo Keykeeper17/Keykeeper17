@@ -1,5 +1,6 @@
 # Hi there 👋
-## efewfrw
+## Skill and Experience
+* HTML, CSS, JavaScript
 ### werwer
 
 <!--
