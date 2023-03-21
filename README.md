@@ -21,7 +21,7 @@ Below is a test to customize my readme file.
 
 <hr>
 
-Below displays my language statistics from any public repository:
+Below displays my language statistics from my public repositories:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keykeeper17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
