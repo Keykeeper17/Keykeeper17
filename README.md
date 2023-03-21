@@ -69,6 +69,9 @@ Below displays my language statistics from my public repositories:
 <br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keykeeper17&show_icons=true&locale=en&theme=dark" alt="keykeeper17" /></p>
+
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keykeeper17&theme=dark" alt="keykeeper17" /></p>
 
 
