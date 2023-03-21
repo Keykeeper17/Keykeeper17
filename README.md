@@ -43,9 +43,9 @@ Below displays my language statistics from my public repositories:
 <img  aligh="center" src="ezgif-3-5a2ece833fc4-1.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Key</h1>
-<h3 align="center">A passionate Full Stack Developer from United States of America</h3>
+<h3 align="center">A passionate Developer, currently learning Full Stack Developer from United States of America</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="arcade" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=test" alt="test" /></a> </p>
 
