@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Below is a test to customize my readme file.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Keykeeper17=anuraghazra&theme=dark&show_icons=true)
