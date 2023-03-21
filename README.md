@@ -1,4 +1,4 @@
-# Hi there 👋
+<center># Hi there 👋 </center>
 ## Skill and Experience
 * HTML, CSS, JavaScript
 ### werwer
