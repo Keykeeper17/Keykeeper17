@@ -63,7 +63,6 @@ Below displays my language statistics from my public repositories:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keykeeper17&show_icons=true&locale=en&layout=compact&theme=dark" alt="test" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keykeeper17&show_icons=true&locale=en&theme=dark" alt="test" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=keykeeper17&theme=dark" alt="test" /></p>
 
 
