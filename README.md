@@ -55,7 +55,7 @@ Below displays my language statistics from my public repositories:
 
 - 🔭 I have a passion and hobby in game development and my current focus is working with the **Godot** engine.
 
-- 🌱 New topics I’m currently learning about are in Full Stack Development such as **React, Node.js, Tailwind CSS, MongoDB and everything else I can.** 
+- 🌱 New topics I’m currently learning about are in RPA, microcomputers, AI such as **VB.NET, C#, GDScript, Python, C++, MongoDB and everything else I can.** 
 
 <!--
 <h3 align="left">Connect with me:</h3>
